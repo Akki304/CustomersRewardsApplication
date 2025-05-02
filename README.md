@@ -38,7 +38,7 @@ JUnit Testing:
 Setup Instructions
 
 1.  Clone the Repository:
-    git clone https://github.com/Akki304/rewardcalculator.git
+    git clone https://github.com/Akki304/CustomersRewardsApplication.git
 
 2.  Configure the Database:
 Modify the src/main/resources/application.properties file to configure your database connection.  For example, for H2:
